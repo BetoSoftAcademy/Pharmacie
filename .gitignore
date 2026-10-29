@@ -1,0 +1,10 @@
+bin/
+obj/
+.dotnet-cli/
+.vs/
+*.user
+*.db
+*.db-shm
+*.db-wal
+artifacts/
+TestResults/
